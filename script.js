@@ -2,12 +2,11 @@ $(document).ready(function () {
 	var config = {
 		uptimerobot: {
 			api_keys: [
-				'm779828614-2b8e76a1f638f179db6f01be',
-				'm779757287-11996787b4a4ddb79cae343b',
-				'm779757278-82acbbedc86d26ebbc129945',
-				'm779762016-33deea24d6a3e73e524d8ab0',
-				'm779870719-a710902a0c001a03244eac5e',
-				'm779870718-eada06ba00200d8ced148b37'
+				'm784437559-03d69d607e96335e6052e362',  //Place your first Key Here - app
+                                'm784437563-3180dfa269b28789a8f786f6', //Place your next key here! <- app demo
+                                'm784438298-02f8d06be96a9c9e468770d4', //Place your next key here! <- API GUI
+                                'm784438306-8c3c187da5a48781f6b4c6f4', //Place your next key here! <- API Google
+                                'm784438301-f480bb16afc2bdcd045fc3aa' //Place your next key here! <- API SERP
 			],
 			logs: 1,
 			response_times: 1,
